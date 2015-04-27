@@ -9,32 +9,72 @@ list-style-type: none;
 
 /* HOME PAGE */
 
+#header {
+	width: 100%;
+}
+
 #name {
 	text-align: center;
-	font-size: 3em;
+	font-size: 4.5em;
 	list-style-type: none;
-	padding-top: 1em;
+	padding-top: .50em;
+	color: #443d45;
+	max-width: 100%;
 }
 
 #description {
 	text-align: center;
-	padding-top: .50em;
+	padding-top: .65em;
+	padding-bottom: .65em;
 	font-size: 1.25em;
+	color: #443d45;
 }
 
-#main_nav li{
+#main_nav{
 	text-decoration: none;
 	font-size: 2em;
 	text-align: center;
+	padding-top: .50em;
+	width: 100%;
 
+
+}
+
+#background_one {
+	background-color: #b5a38f;
+	padding-top: .30em;
+	padding-bottom: .30em;
 }
 
 #food {
-	padding-top: .50em;
+	text-decoration: none;
+	max-width: 100%;
+	color: #443d45;
+	
+}
+
+#background_two {
+	background-color: #dccfbf;
+	padding-top: .30em;
+	padding-bottom: .30em;
+}
+
+#family {
+	text-decoration: none;
+	max-width: 100%;
+	color: #443d45;
+}
+
+#background_three {
+	background-color: #ebe5dd;
+	padding-top: .30em;
+	padding-bottom: .30em;
 }
 
 #fun {
-	padding-bottom: .50em;
+	text-decoration: none;
+	max-width: 100%;
+	color: #443d45;
 }
 
 
@@ -49,6 +89,19 @@ list-style-type: none;
 
 #footer_info {
 	text-align: center;
+	padding-top: 1em;
+	color: #03446e;
+	padding-bottom: 1em;
+
+}
+
+
+/* PAGE 1 */
+
+#page_description {
+	text-align: center;
+	font-size: 2em;
 	padding-top: .50em;
+	color: #443d45;
 
 }
