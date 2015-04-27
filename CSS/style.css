@@ -21,9 +21,20 @@ list-style-type: none;
 	padding-top: .25em;
 }
 
+#main_nav li{
+	text-decoration: none;
+	font-size: 2em;
+	text-align: center;
+	padding-top: 1em;
+
+}
+
+
+
 .fluid_picture {
 	width: 100%;
 }
+
 
 #home_picture {
 	max-width: 100%;
