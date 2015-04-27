@@ -111,11 +111,13 @@ list-style-type: none;
 }
 
 #page_text {
-	padding-top: .50em;
+	padding-top: 1em;
 	padding-left: 3em;
 	padding-right: 3em;
 	text-align: center;
 	color: #443d45;
+	background-color: #a26866;
+	padding-bottom: 1em;
 
 }
 
@@ -123,10 +125,26 @@ list-style-type: none;
 	max-width: 100%;
 }
 
-#page_text {
-	background-color: #a26866;
-	padding-bottom: .50em;
+/* PAGE 2 */
+
+#old_pic {
+	max-width: 100%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+
 }
+
+#page_text_two {
+	background-color: #8e96a2;
+	padding-bottom: 1em;
+	padding-top: 1em;
+	padding-left: 3em;
+	padding-right: 3em;
+	text-align: center;
+	color: #443d45;
+
+	}
 
 
 
