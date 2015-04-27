@@ -144,12 +144,29 @@ list-style-type: none;
 	text-align: center;
 	color: #443d45;
 
-	}
+}
 
 
+/* PAGE 3 */
 
+#page_text_three {
+	background-color: #8d866c;
+	padding-bottom: 1em;
+	padding-top: 1em;
+	padding-left: 3em;
+	padding-right: 3em;
+	text-align: center;
+	color: #443d45;
 
+}
 
+#colorado {
+	max-width: 100%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+
+}
 
 
 
