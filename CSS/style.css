@@ -18,17 +18,24 @@ list-style-type: none;
 
 #description {
 	text-align: center;
-	padding-top: .25em;
+	padding-top: .50em;
+	font-size: 1.25em;
 }
 
 #main_nav li{
 	text-decoration: none;
 	font-size: 2em;
 	text-align: center;
-	padding-top: 1em;
 
 }
 
+#food {
+	padding-top: .50em;
+}
+
+#fun {
+	padding-bottom: .50em;
+}
 
 
 .fluid_picture {
@@ -42,5 +49,6 @@ list-style-type: none;
 
 #footer_info {
 	text-align: center;
+	padding-top: .50em;
 
 }
